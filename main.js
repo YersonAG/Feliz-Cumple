@@ -10,7 +10,7 @@ $(document).ready(function() {
             });
             
             $("#glow").remove();
-            txt.hide().html("<img src='laura.jpg' alt='Laura' style='display:block; margin: 20px auto 0; width: 160px; height: auto;'><br>Feliz Cumpleaños Laura").delay(750).fadeIn(300);
+            txt.hide().html("<img src='duke.jpg' alt='Laura' style='display:block; margin: 20px auto 0; width: 160px; height: auto;'><br>Feliz Cumpleaños Laura").delay(750).fadeIn(300);
             $("#candle").animate(
                 {
                     opacity: ".5"
